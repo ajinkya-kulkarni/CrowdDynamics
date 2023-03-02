@@ -39,10 +39,13 @@ The following input parameters can be adjusted in the code:
 The simulation outputs the behavior of the collection of particles over time. This can be visualized using an appropriate software tool, such as MATLAB or Python. The output includes the positions, velocities, and accelerations of the particles at each time step. Additionally, the output includes the moments for the chain of particles in the multi-sphere model.
 
 Random motion observed for low co-ordination coefficient cv
+
 ![Animation](mu_300.gif)
 
 Jammed motion observed for medium co-ordination coefficient cv
+
 ![Animation](mu_510.gif)
 
 Rotational motion observed for high co-ordination coefficient cv
+
 ![Animation](mu_540.gif)
