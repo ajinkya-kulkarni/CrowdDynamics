@@ -2,11 +2,9 @@
 
 Crowd dynamics at low/medium/high co-ordination
 
-![Animation](mu_300.gif) ![Animation](random_crowd.gif) 
+![Animation](mu_300.gif) ![Animation](mu_510.gif) ![Animation](mu_540.gif)
 
-![Animation](mu_510.gif) ![Animation](jammed_crowd.gif) 
-
-![Animation](mu_540.gif) ![Animation](rotary_crowd.gif) 
+![Animation](random_crowd.gif) ![Animation](jammed_crowd.gif) ![Animation](rotary_crowd.gif) 
 
 ## Code Description
 The code is written in C programming language and simulates the behavior of a collection of self-propelled particles in a fluid medium. The code includes the calculation of forces between particles, fluid drag forces, and self-propelling forces. The simulation also includes the calculation of the moment for a chain of particles in a multi-sphere model.
